@@ -1,0 +1,49 @@
+
+Question 1- Appropriate Java Code Style: 9
+
+	_x_ [+1] Indentation was correct in most of their classes.
+	_x_ [+1] Variables were named properly in most of their classes.
+	_x_ [+1] Classes were named appropriately.
+	_x_ [+1] Opening braces were not put on their own line.
+	_x_ [+1] Code within classes is broken up logically using blank lines.
+	_x_ [+1] Javadocs are included for all methods.
+	_x_ [+1] Parentheses are used to clarify arithmetic expressions
+	_x_ [+1] Methods in classes are grouped appropriately
+	_x_ [+1] "Braces are always used with for while if even if they only contain one statement."
+
+
+
+Question 2- Use of Instances: 10
+
+	_x_ [+10] Solution properly used instances instead of duplicating classes.
+
+
+
+Question 3- Choice of Classes: 10
+
+	_x_ [+10] Solution included an appropriate amount of objects instead of putting all of their code into one or two classes.
+
+
+
+Question 4- Base Game: 60
+
+	_x_ [+10] Draws a game board that includes the ground (can be flat) and two players (can be simple shapes)
+	_x_ [+10] Accepts user input for angle and velocity (ArgsProcessor is OK)
+	_x_ [+10] Fires a projectile based on the given angle and velocity
+	_x_ [+10] "Checks projectile collisions with player ground and edge of the screen appropriately"
+	_x_ [+10] "Displays a ""Game Over"" screen when a player is hit stating the winner. Restarts the game. "
+	_x_ [+10] Includes at least one interface. The interface must be applied to at least 2 classes to receive credit for this 
+
+
+
+Question 5- Choice from List 1: 10
+
+	_x_ [+10] Implement something from the first list of options
+
+
+
+Question 6- Choice from List 2: 30
+
+	_x_ [+30] Implement something from the second list of options
+
+
